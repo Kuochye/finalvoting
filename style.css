@@ -117,7 +117,8 @@ body{
 /* Modal Content */
 .modal-content {
     position: relative; 
-    left: -300px;
+    left: -250px;
+    top: -100px;
     margin: auto;
     padding: 0;  
     width: 20%;
